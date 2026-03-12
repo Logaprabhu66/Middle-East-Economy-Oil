@@ -2,6 +2,7 @@ Middle East Economy & Oil Prices Dashboard Analysis
 1. Abstract
 
 Economic growth in the Middle East is strongly influenced by oil production and global oil price fluctuations. This project analyzes the relationship between oil prices and economic indicators such as GDP, exports, imports, inflation, and life expectancy.
+<img width="1311" height="735" alt="Screenshot 2026-03-10 120333" src="https://github.com/user-attachments/assets/e1908df0-b7b0-45bb-80b1-cab9faf5e76f" />
 
 The dataset covering 1990–2024 was analyzed and visualized using Microsoft Power BI. The dashboard provides an interactive platform to study economic performance across several Middle Eastern countries. The visualizations help identify trends, patterns, and relationships between oil prices and economic development.
 
